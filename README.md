@@ -4,8 +4,8 @@ Research @ [ASU](https://www.asu.edu/) · Eng @ [PayPal](https://www.paypal.com/
 
 ### Building
 
-- 🔗 **[DevGraph](https://github.com/ameyalambat128/devgraph)** — The universal context layer for your code
-- 🍎 **[SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills)** — AI agent skills for idiomatic SwiftUI from Apple's Xcode docs
+- 🔗 **[DevGraph](https://github.com/ameyalambat/devgraph)** — The universal context layer for your code
+- 🍎 **[SwiftUI Skills](https://github.com/ameyalambat/swiftui-skills)** — AI agent skills for idiomatic SwiftUI from Apple's Xcode docs
 - 🌘 **[Dark Docs 2.0](https://darkdocs.ameyalambat.com)** — The dark theme for Google Docs that they forgot to add
 - 🔍 **[API Hover](https://apihover.ameyalambat.com)** — See API calls tied to UI interactions
 
